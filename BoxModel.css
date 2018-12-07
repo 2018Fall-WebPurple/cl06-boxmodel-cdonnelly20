@@ -1,0 +1,36 @@
+/*
+* Caitlin Donnelly
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* { 
+margin: 0; padding: 0;
+}
+
+/* Body attributes here */
+
+body {
+    background-color:white;
+    border:2px dotted green;
+}
+
+h1 {
+    padding: 10px 5px;
+    margin: 20px 5px
+    border: 3px solid blue;
+}
+
+p {
+    padding:10px 5px;
+    margin:10px 5px;
+    border: thin dotted red;
+}
+
+main {
+    padding:20px 5px;
+    margin:15px 35px;
+    border: thin dashed purple;
+}
